@@ -1,2 +1,2 @@
-# my-JS-project
+# My-JS-Project
 task board system
