@@ -1,0 +1,21 @@
+body {
+  background-image: url(pictures/tile.jpg);
+  background-position: center center;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: "Times New Roman", Times, serif;
+  font-family: "Beau Rivage", cursive;
+  text-align: center;
+}
+
+.notebook {
+  background-image: url(pictures/formbg.jpg);
+  background-position: top left;
+  background-repeat: repeat-y;
+  max-width: 600px;
+  padding-top: 15px;
+  padding-left: 100px;
+  margin: 0 auto 50px auto;
+}
